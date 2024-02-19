@@ -3,7 +3,7 @@
 |  O   O  |  O   O|
  \_______/ \_____/ 
 
-Issue Summary:
+          Issue Summary:
 
 Duration:
 
